@@ -3,4 +3,4 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
-Sitemap: http://nba2k18vchack.com/sitemap.xml
+Sitemap: http://topeleven2018hack.com/sitemap.xml
