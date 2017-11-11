@@ -244,7 +244,7 @@ color:white;
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffec64), color-stop(100%, #ffab23));
   background-image: -moz-linear-gradient(#ffec64, #ffab23);
   background-image: -webkit-linear-gradient(#ffec64, #ffab23);
-  background-image: linear-gradient(#ffec64, #ffab23);
+  background-image: linear-gradient(rgb(145,209,87) 0%,rgb(99,175,23) 100%);
   background-color: #ffec64;
   -moz-border-radius: 6px;
   -webkit-border-radius: 6px;
