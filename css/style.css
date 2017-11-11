@@ -347,13 +347,13 @@ border-radius: 20px; -moz-border-radius: 20px; 	-webkit-border-radius: 20px;
   color: #fff;
 }
 #gen_section .section-content .generator-section .gen-select-gems {
-  background-image: url("../img/gems.PNG");
+  background-image: url("../img/gems.png");
 }
 #gen_section .section-content .generator-section .gen-select-gold {
-  background-image: url("../img/gold.PNG");
+  background-image: url("../img/gold.png");
 }
 #gen_section .section-content .generator-section .gen-select-diamonds {
-  background-image: url("../img/elixir.PNG");
+  background-image: url("../img/elixir.png");
 }
 
 #gen_section .section-content .generator-section .gen-select {
